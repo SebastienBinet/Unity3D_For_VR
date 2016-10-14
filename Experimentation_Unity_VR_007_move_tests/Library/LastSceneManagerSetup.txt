@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/_SBinetAssets/VR_007_B.unity
+  isLoaded: 1
+  isActive: 1

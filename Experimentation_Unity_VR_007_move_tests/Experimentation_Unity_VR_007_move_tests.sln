@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{1B1B1725-F03B-A91D-3D25-F4336D480F44}") = "Experimentation_Unity_VR_007_move_tests", "Assembly-CSharp.csproj", "{5956C23A-6D86-5517-F5C3-1936481C7741}"
+EndProject
+Project("{1B1B1725-F03B-A91D-3D25-F4336D480F44}") = "Experimentation_Unity_VR_007_move_tests", "Assembly-CSharp-Editor.csproj", "{C6E6CF63-6264-E5D7-FEE9-2C2A435C168E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5956C23A-6D86-5517-F5C3-1936481C7741}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5956C23A-6D86-5517-F5C3-1936481C7741}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5956C23A-6D86-5517-F5C3-1936481C7741}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5956C23A-6D86-5517-F5C3-1936481C7741}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6E6CF63-6264-E5D7-FEE9-2C2A435C168E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6E6CF63-6264-E5D7-FEE9-2C2A435C168E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6E6CF63-6264-E5D7-FEE9-2C2A435C168E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6E6CF63-6264-E5D7-FEE9-2C2A435C168E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
